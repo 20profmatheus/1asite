@@ -1,0 +1,22 @@
+body {
+    background: #CCCCCC;
+}
+
+h1{
+    text-align: center
+}
+p {
+    text-align: center;    
+}
+
+#nasaulas {
+    font-size: 20px;
+}
+
+strong {
+    color: red;
+}
+
+img{
+    margin-left: 45%;
+}
