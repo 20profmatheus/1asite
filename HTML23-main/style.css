@@ -4,10 +4,11 @@ body {
 
 #paisagemsite {
     width: 50%;
-}
+    }
 
 .principal {
     background: #CCCCCC;
+    padding: 30px;
 }
 
 h1{
