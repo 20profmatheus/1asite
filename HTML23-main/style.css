@@ -1,9 +1,13 @@
 body {
-    background: #CCCCCC;
+    
 }
 
 #paisagemsite {
     width: 100%;
+}
+
+.principal {
+    background: #CCCCCC;
 }
 
 h1{
@@ -21,6 +25,14 @@ strong {
     color: red;
 }
 
-img{
-    margin-left: 45%;
+.itens {
+    font-size: italic;
+}
+
+.benefícios {
+    background: white;
+}
+
+h3{
+    text-align: center;
 }
